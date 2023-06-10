@@ -367,7 +367,7 @@ a:hover, a:focus, a:active, a:visited, a:link {
   align-items: flex-start;
   justify-content: center;
   gap: 1em;
-  margin: 2em;
+  margin: 2em 4em;
 }
 
 .container.contact .contact-content .contact-content-con .left-contact h4 {
@@ -400,7 +400,7 @@ a:hover, a:focus, a:active, a:visited, a:link {
   border: 1px solid var(--color-black);
   border-radius: 25% 5% 15%;
   background-color: var(--color-secondary);
-  margin: 2em 3em;
+  margin: 2em 10em;
 }
 
 .container.contact .contact-content .contact-content-con .right-contact form {
